@@ -7,10 +7,6 @@ font-size: 32px;
 width: 100%;
 }
 
-body {
-  background-image: https://cdn.shopify.com/s/files/1/0740/0635/products/95575.jpg?v=1424441893
-}
-
 .paragraph {
   margin: 5px;
   padding: 2px;
@@ -22,4 +18,9 @@ body {
 .image {
   height: 250px;
   width: 250px;
+}
+
+footer {
+  background-color: #ea5169;
+  font-family: sans-serif;
 }
