@@ -14,3 +14,8 @@ width: 100%;
   border-width: medium;
   border-color: #ea5169;
 }
+
+.image {
+  height: 35px;
+  width: 35px;
+}
